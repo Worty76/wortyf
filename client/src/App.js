@@ -20,10 +20,10 @@ function App() {
       {/* Body */}
       <Routes>
         <Route exact path="/" element={<Index />} />
-        <Route path="/signIn" element={<SignIn />} />
+        <Route path="/signin" element={<SignIn />} />
         <Route path="/signup" element={<SignUp />} />
         <Route path="/home" element={<Home />} />
-        <Route path="/midMans" element={<MidMans />} />
+        <Route path="/midmans" element={<MidMans />} />
         <Route path="/events" element={<Events />} />
         <Route path="/profile/:id" element={<Profile />} />
         <Route path="/discussions/:id" element={<Discussion />} />
