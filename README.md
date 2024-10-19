@@ -47,4 +47,4 @@ $ npm start
 Uploading... 
 
 ## Documentation
-COPYRIGHT BY WORTY (Le Thanh Dat).
+COPYRIGHT BY WORTY (Le Thanh Dat) 2023.
